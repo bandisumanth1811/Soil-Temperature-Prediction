@@ -28,7 +28,7 @@ MODEL_FILES = {
 }
 
 # UI setup
-st.title('Weather Prediction Model')
+st.title('Soil Temperature Prediction Model')
 
 model_choice = st.selectbox(
     'Choose a model:',
@@ -75,7 +75,7 @@ if submit_button:
         predictions = predict_values(inputs, model_choice, model)
         
         # 🎯 Display the predictions in the requested format
-        st.subheader('Prediction Tempratures are: ')
+        st.subheader('Prediction Temperatures are: ')
         st.json(predictions)  # Pretty JSON-like output with keys and values
 
     except Exception as e:
