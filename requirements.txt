@@ -1,0 +1,19 @@
+tensorflow
+pandas
+numpy
+scikit-learn
+tensorboard
+matplotlib
+streamlit
+
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+streamlit
+nltk
+# tensorflow==2.15.0
+# keras
+ipykernel
+xgboost
