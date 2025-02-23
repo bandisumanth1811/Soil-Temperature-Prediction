@@ -13,7 +13,7 @@ matplotlib
 seaborn
 streamlit
 nltk
-tensorflow==2.15.0
+tensorflow
 keras
 ipykernel
 xgboost
