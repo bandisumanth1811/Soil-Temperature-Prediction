@@ -178,7 +178,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
-- 🔗 LinkedIn: [bandisandeep](https://www.linkedin.com/in/sandeepbandi/)
+- 🔗 LinkedIn: [bandisumanth](https://www.linkedin.com/in/sumanthbandi/)
 
 ---
 
