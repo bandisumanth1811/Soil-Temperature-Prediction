@@ -178,9 +178,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
-## **Connect**
-
-- 🔗 GitHub: [sandeepbandi924](https://github.com/sandeepbandi924)
 - 🔗 LinkedIn: [bandisandeep](https://www.linkedin.com/in/sandeepbandi/)
 
 ---
